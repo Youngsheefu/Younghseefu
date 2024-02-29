@@ -1,4 +1,3 @@
-# Youngsheefu
 <h1 align="center">Hi 👋, I'm YoungSheefu</h1>
 <h3 align="center">I`m strong backend developer from Uzbekistan.</h3>
 
